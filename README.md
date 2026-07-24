@@ -1,12 +1,12 @@
 # Compet Consulting Suite Windows Releases
 
-This public repository hosts Windows x64 releases for the private `IDK-Silver/compet-consulting-suite` source repository.
+This public repository hosts Windows x64 releases for the private `yufeng-kano/compet-consulting-suite` source repository.
 
 ## Download
 
 Latest installer:
 
-<https://github.com/IDK-Silver/compet-consulting-suite-releases/releases/latest/download/CompetConsultingSuiteSetup.exe>
+<https://github.com/yufeng-kano/compet-consulting-suite-releases/releases/latest/download/CompetConsultingSuiteSetup.exe>
 
 Releases are currently **not code-signed**. Windows SmartScreen will warn on first run; choose "More info" → "Run anyway". Authenticode signing is planned once a company certificate is available.
 
